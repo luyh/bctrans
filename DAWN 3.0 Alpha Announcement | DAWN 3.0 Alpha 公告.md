@@ -20,3 +20,5 @@ Originally published on steemit.com on 26 January 2018.
 社区开发者在下一步拉取主分支时，他们会意识到得到的将是黎明3.0主分支的代码。现在的测试网络使用的是黎明2.x的代码，在切换主分支时将更新readme.md说明文档,开发者们可以按照新的说明文档中的方法拉取到黎明2.0的代码。
 
 > Please note that the Dawn 3.0 code is still in Early Alpha and is not compatible with the current block.one-provided public TestNet; it will not be available in a public TestNet until the end of Q1 2018. In the interim, developers may create their own testnets with the new Dawn 3.0 code. As a reminder, Dan Larimer and the development team have changed the way we forecast development. This means we won’t be announcing the date for the Dawn 3.0 Testnet until the timeline is close enough for us to have high confidence in its capabilities.
+
+请注意，黎明3.0的代码仍然是早期的Aopha版本，并且与现在block.one公司支持的公测网络并不兼容，直到在2018年第1季度末，公测网络才将支持黎明3.0的代码。在此期间，开发者会创建他们自己的支持Dawn 3.0代码的测试网络。提醒一下，Dan Larimer和开发团队已经切换了早期的开发模式，这意味着，直到我们对Dawn 3.0的性能有足够高的信心时，我们才会声明Dawn 3.0 测试网络的发布时间。
