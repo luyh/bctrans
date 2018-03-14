@@ -1,12 +1,12 @@
-> 今天是开始翻译的第一篇，欢迎指正。
-
 文章来源:
 https://medium.com/eosio/dawn-3-0-alpha-announcement-7f8b1bd74364
 
 DAWN 3.0 Alpha Announcement
+
 DAWN 3.0 Alpha 公告
 
 Originally published on steemit.com on 26 January 2018.
+
 原文于2018年1月26日发表于steemit.com
 
 ![EOS DAWN 3.0](https://cdn-images-1.medium.com/max/800/0*99bwkzCu517eJ3tZ.png)
