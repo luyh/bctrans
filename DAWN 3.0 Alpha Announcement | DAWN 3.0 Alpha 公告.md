@@ -25,6 +25,8 @@ Originally published on steemit.com on 26 January 2018.
 
 > The current public TestNet at “https://testnet1.eos.io” will continue to run the Dawn 2.x software until the release of the Dawn 3.0 Testnet, and will then be retired.
 
-当前的测试网络 “https://testnet1.eos.io”将继续运行黎明2.x的软件，直到黎明3.0测试网络发布才将退出。
+当前的测试网络 “https://testnet1.eos.io” 将继续运行黎明2.x的软件，直到黎明3.0测试网络发布才将退出。
+
 > Smart contracts written for the Dawn 2.x codebase will need to be revised to work on the new 3.0 codebase and take advantage of the new features.
+
 为黎明2.x代码写的智能合约需要重新修改，才能充分发挥3.0的代码新的特性。
