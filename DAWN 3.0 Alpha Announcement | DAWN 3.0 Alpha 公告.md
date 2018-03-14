@@ -22,3 +22,9 @@ Originally published on steemit.com on 26 January 2018.
 > Please note that the Dawn 3.0 code is still in Early Alpha and is not compatible with the current block.one-provided public TestNet; it will not be available in a public TestNet until the end of Q1 2018. In the interim, developers may create their own testnets with the new Dawn 3.0 code. As a reminder, Dan Larimer and the development team have changed the way we forecast development. This means we won’t be announcing the date for the Dawn 3.0 Testnet until the timeline is close enough for us to have high confidence in its capabilities.
 
 请注意，黎明3.0的代码仍然是早期的Aopha版本，并且与现在block.one公司支持的公测网络并不兼容，直到在2018年第1季度末，公测网络才将支持黎明3.0的代码。在此期间，开发者会创建他们自己的支持Dawn 3.0代码的测试网络。提醒一下，Dan Larimer和开发团队已经切换了早期的开发模式，这意味着，直到我们对Dawn 3.0的性能有足够高的信心时，我们才会声明Dawn 3.0 测试网络的发布时间。
+
+> The current public TestNet at “https://testnet1.eos.io” will continue to run the Dawn 2.x software until the release of the Dawn 3.0 Testnet, and will then be retired.
+
+当前的测试网络 “https://testnet1.eos.io”将继续运行黎明2.x的软件，直到黎明3.0测试网络发布才将退出。
+> Smart contracts written for the Dawn 2.x codebase will need to be revised to work on the new 3.0 codebase and take advantage of the new features.
+为黎明2.x代码写的智能合约需要重新修改，才能充分发挥3.0的代码新的特性。
