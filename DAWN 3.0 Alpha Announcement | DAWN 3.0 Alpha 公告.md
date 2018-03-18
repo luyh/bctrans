@@ -30,3 +30,13 @@ Originally published on steemit.com on 26 January 2018.
 > Smart contracts written for the Dawn 2.x codebase will need to be revised to work on the new 3.0 codebase and take advantage of the new features.
 
 为黎明2.x代码写的智能合约需要重新修改，才能充分发挥3.0的代码新的特性。
+
+
+> Major changes in Dawn 3.0 include changing “eos” to “eosio” in all locations throughout the code. We have also renamed “message” to “action”, and removed the need for developers to manually specify ‘scope’; all scope specification is now automated.
+
+黎明3.0的主要改变包括：所有代码中的"eos"改为"eosio"，我们同样将“message”重命名为“action”，移除开发者需要手动指定“scope”(范围？)，所有范围指定均已自动化。
+
+> Additional new features in the Dawn 3.0 Alpha Release include: deferred transactions, staking pools, a new currency contract, and a new emerging token standard. A complete list of new features will be included in the 3.0 Final Release notes, expected by the end of Q1 2018. A complete list of EOS.IO Software Releases can be found here:
+https://github.com/EOSIO/eos/wiki/Releases
+
+其他黎明3.0 Alpha发布的新特性包括：延迟交易，staking pools，新的货币智能合约，新的紧急通证标准。2018年Q1季度末，预计发布的3.0版本最终发布日志中将包含完整的新特性列表。EOS.IO软件发布的完整列表，可以在这里查到：https://github.com/EOSIO/eos/wiki/Releases
